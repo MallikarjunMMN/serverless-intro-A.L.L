@@ -1,7 +1,7 @@
 # Simple Serverless Demo using Amazon Web Services (AWS)
 
 See `index.html` [live](http://dbcserverlesscatbucket.s3-website-us-east-1.amazonaws.com/).  
-Watch it get built [here](https://www.youtube.com/watch?v=EPhyBXhns_E).
+Watch it get built [here](https://www.youtube.com/watch?v=E7_3_IJwr3k).
 
 ## Serverless cats, y'all!
 
